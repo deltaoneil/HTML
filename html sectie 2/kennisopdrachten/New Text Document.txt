@@ -1,0 +1,15 @@
+1. Wat is altijd het eerst element op een HTML-pagina?
+	<html>
+
+2. Wat is het verschil tussen de “head” en de “body” van een HTML-pagina?
+	de head is de titel van de pagina, de body is hoe de pagina eruit ziet.
+
+3. Wat is een HTML-tag?
+
+4. Wat is een attribuut?
+
+5. Geef een voorbeeld van attribuut.
+
+6. Welke HTML-tag kan je een link maken?
+
+7. Wat is het verschil tussen een interne en externe link?
