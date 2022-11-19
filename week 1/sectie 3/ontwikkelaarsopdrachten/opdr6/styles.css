@@ -1,3 +1,20 @@
+h1{
+    font-size: 25px;  
+    text-align: center;
+	color: black;
+}
+
+h2{
+	font-size: 25px;
+	color: grey;
+	text-align: center;
+}
+
+h3{
+	color: black;
+	font-size: black;
+	text-align: center;
+}
 
 #topleft{
 	width: 33%;
@@ -21,18 +38,17 @@
 }
 
 
-
 #midleft{
 	width: 33%;
 	height: 33%;
-	background-color: green;
+	background-color: rgb(43, 163, 131);
 	float: left;
 }
 
 #midmid{
 	width: 33%;
 	height: 33%;
-	background-color: white;
+	background-color: rgb(65, 206, 169);
 	float: left;
 }
 
@@ -42,7 +58,6 @@
 	background-color: purple;
 	float: left;
 }
-
 
 
 #botleft{
