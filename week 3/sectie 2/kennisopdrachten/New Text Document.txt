@@ -1,0 +1,19 @@
+1. ./ is de huidige map en ../ is de parent 
+
+2. 0,0 oftewel links boven
+
+3. als je animaties moet maken gebruik je @keyframes
+
+4.
+
+5. 
+
+6. :link, :active, :hover, :pressed
+
+7. rood
+
+8. blauw
+
+9. met text-align kan je bepalen hoe een text verspreid/uitgestrekt word
+
+10.  Een active-state is als het element op dat moment gebruikt word
