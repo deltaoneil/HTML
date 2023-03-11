@@ -1,0 +1,30 @@
+HTML eindtoets
+
+deel 1: kennisvragen
+
+	opdracht 1 (7 punten):
+		het verschil tussen flexbox en grid is; 
+		met grid werk je in de horizontale en verticale as van de website 
+		en kan je dus over de hele pagina dingen plaatsen. 
+		en met flexbox werk je alleen in de horizontale as en 
+		kan je dus alleen dingen plaatsen die naast elkaar staan.
+
+	opdracht 2 (8 punten):
+		hoogte is 150px, breedte is 300px, achtergrond kleur is undevined.
+
+deel 2: vaardigheidsvragen:
+
+	opdracht 3 (13 punten):
+		zie opdr3.html
+
+	opdracht 4 (15 punten):
+		zie opdr4.html
+
+	opdracht 5 (10 punten):
+		zie opdr5.html
+
+	opdracht 6 (15 punten):
+		zie opdr6.html
+
+	opdracht 7 (30 punten):
+		zie opdr7.html

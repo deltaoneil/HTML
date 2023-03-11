@@ -1,0 +1,17 @@
+.herder{
+	width: 500px;
+}
+
+*{
+	height: 150px;
+	width: 200px;
+}
+
+#herder{
+	background-color: blue;
+	height: 100px;
+}
+
+.herderdier{
+	width: 300px;
+}
